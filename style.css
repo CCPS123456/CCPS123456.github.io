@@ -30,6 +30,5 @@ body {
 }
 
 iframe {
-  position: bottom; 
-  float: bottom;
+  text-align: center bottom;
 }
